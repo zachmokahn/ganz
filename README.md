@@ -1,7 +1,7 @@
 ## Ganz (Complete)
 
 Ganz is a way to traverse a directory tree within the browser. Pretty
-aweomsome right?
+awesome right?
 
 In order to get this thing started you might need a couple of things. The first
 thing you need is Java... because it's built in Java. You can find it
