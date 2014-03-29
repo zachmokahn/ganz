@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -cp "bin:lib/dasBoot.jar:lib/Umwelt.jar" Server $@
