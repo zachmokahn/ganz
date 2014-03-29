@@ -55,7 +55,7 @@ public class FileControllerTest {
     FileHelper.destroyFile("test.txt");
   }
 
-  @Test public void HANDLE_returnsDirectoryIfNotDirectory() throws Exception {
+  @Test public void HANDLE_returnsDirectoryIfDirectory() throws Exception {
     FileHelper.createDirectory("test");
     request.stubMethod("GET");
     request.stubURI("/test");
