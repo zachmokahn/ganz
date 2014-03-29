@@ -54,3 +54,19 @@ Well of course, I usually do!
 #### Wait, dotfiles? You use dotfiles?
 Of course I do, And I take great pride in them. They are located at my
 [dotfile](http://www.github.com/zachmokahn/dotfiles) repo.
+
+#### Enough about your dotfiles, Wouldn't a jar be much easier to use?
+Well, yeah, if you don't want to use this product as is, you can deffinately
+just download the jar. It's right
+[here](https://github.com/zachmokahn/ganz/blob/master/ganz.jar?raw=true) but I
+must warn you, it's not nearly as fun this way.
+
+You can however use the jar the same way you are using the script. You just call
+```
+  $ java -jar ganz.jar
+```
+
+and you can use it the same way to your heart's desire...
+```
+  $ java -jar ganz.jar -p 3000 -d /Users/
+```
