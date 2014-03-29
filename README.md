@@ -39,7 +39,7 @@ parameters prefixed with ``` -d ```:
 
 #### But Zack, port 5000 is already in use :-(
 Don't sweat it, you can open this bad boy up on any port you'd like, it just
-takes another parameter prefix -> ``` -p ```:
+takes another prefix ``` -p ```:
 ```
   $ ./server -p 3000
 ```
