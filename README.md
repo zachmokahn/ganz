@@ -4,9 +4,8 @@ Ganz is a way to traverse a directory tree within the browser. Pretty
 aweomsome right?
 
 In order to get this thing started you might need a couple of things. The first
-thing you need is Java... because it's built in Java. You can find it here:
-[Java
-Link](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
+thing you need is Java... because it's built in Java. You can find it
+[here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
 The application is built off of the
 [Umwelt](http://www.github.com/zachmokahn/umwelt) framework. It is used a very
