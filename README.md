@@ -1,4 +1,4 @@
-## Ganz (Complete)
+## Ganz (The Whole)
 
 Ganz is a way to traverse a directory tree within the browser. Pretty
 awesome right?
